@@ -1,0 +1,29 @@
+{
+  "name": "node-express-director",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnpuppeteer/node-express-director.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rnpuppeteer/node-express-director/issues"
+  },
+  "homepage": "https://github.com/rnpuppeteer/node-express-director#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.4",
+    "@babel/core": "^7.10.4",
+    "@babel/plugin-transform-runtime": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/runtime": "^7.10.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
